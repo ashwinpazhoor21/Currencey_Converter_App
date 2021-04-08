@@ -1,8 +1,8 @@
-# CS50W: Final Project
+# Currency Converter
 
 Description:
 
-This is my final project for CS50’s Web Programming with Python and JavaScript. This is a Currency Converter website/application.  
+This is a Currency Converter website/application.  
 This app converts US dollars to popular currencies and displays previous exchange rates, it displays a graph of exchange rate over past year.
 Size and number of data points change with screen width (mobile responsive). I also, have a nice css animation on my website when I pulls up the currency exchange graph. I used an Api for the exchange rate to be in real time.
 
@@ -34,8 +34,3 @@ Graph changes number of data points depending on the view width.
 *db.sqlite3*: This is the file that contains all the graph data and the permissions for the application. 
 
 *manage.py*: This is the main file that is used to run the entire project and I use the command "python3 manage.py runserver" to run the application.
-
-
-## Demonstration Video Link
-
-Youtube Link: https://youtu.be/RHny751-zQ4
